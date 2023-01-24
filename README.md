@@ -157,8 +157,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Matthew Utti - [Github](https://github.com/fredie7) / [Twitter](https://twitter.com/lexutti)
+Shavin Lillkant - [Github](https://github.com/shavz)
+Yeshan Pillay - [Github](https://github.com/yeshan111)
+  
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
